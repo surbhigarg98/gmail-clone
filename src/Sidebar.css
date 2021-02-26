@@ -1,0 +1,18 @@
+.sidebar {
+  flex: 0.2;
+  padding-right: 20px;
+}
+.sidebar__button {
+  margin-top: 15px !important;
+  margin-bottom: 15px !important;
+  margin-left: 15px !important;
+  padding: 15px !important;
+  text-transform: inherit !important;
+  border-radius: 30px !important;
+  color: gray;
+  box-shadow: 0px 2px 5px -2px rgba(0, 0, 0, 0.75);
+}
+.sidebar__footer {
+  display: flex;
+  justify-content: center;
+}

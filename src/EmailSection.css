@@ -1,0 +1,20 @@
+.emailSection {
+  display: flex;
+  align-items: center;
+  padding: 15px;
+  min-width: 200px;
+  border-width: 0 !important;
+  color: gray;
+}
+.emailSection__active {
+  background-color: whitesmoke;
+  border-width: 3px !important;
+}
+.emailSection:hover {
+  background-color: whitesmoke;
+  border-width: 3px !important;
+}
+.emailSection > h4 {
+  font-size: 14px !important;
+  margin-left: 15px;
+}
